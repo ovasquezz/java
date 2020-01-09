@@ -42,7 +42,7 @@ public class P1e3 {
         }
         
         if (cont_pos==0) {
-            System.out.println("No se puede hace la media de números positivos.");
+            System.out.println("No se puede hace la media de números positivos.");//probando commits
         } else {
             System.out.println("La media de los números positivos es: "+(float)pos/cont_pos);
         }
